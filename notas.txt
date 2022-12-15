@@ -1,1 +1,1 @@
-Paro: 2.43.14 lo que viene instalar y desinstalar paquetes de npm.
+Paro: 3.44.10 lo que viene instalar y desinstalar paquetes de npm.

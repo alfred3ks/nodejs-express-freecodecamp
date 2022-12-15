@@ -1,0 +1,18 @@
+{
+  "name": "9-instalar-desistalar-paquetes-con-npm",
+  "version": "1.0.0",
+  "description": "Mi primer paquete",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alfredo Sánchez - @alfred3ks",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
