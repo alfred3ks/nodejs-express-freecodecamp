@@ -1,0 +1,5 @@
+/*
+Ha llegado el momento de trabajar con express.
+Ahora aqui vemos como trabajar con los parametros en la ruta.
+
+*/
