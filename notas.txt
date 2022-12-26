@@ -1,1 +1,1 @@
-Quedo en parametros query. falta 1:14.
+Quedo en POST, PUT, DELETE. falta 46:57.
